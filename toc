@@ -1,0 +1,25 @@
+
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="cognos-analytics" category="analytics" audience="service" href="/docs/cognos-analytics?topic=getting-started" console-page="/catalog/services/cognos-analytics" product-page="https://ibm.com/cloud/cognos-analytics" path="cognos-analytics"}
+Cognos Analytics
+
+{: .navgroup id="learn"}
+    getting-started.md
+{: .navgroup-end}
+
+{: .navgroup id="tutorial"}
+    tutorial.md
+    [IBM Demos: Tutorials, videos, and hands-on labs](https://www.ibm.com/demos/collection/IBM-Cognos-Analytics/)
+{: .navgroup-end}
+
+{: .navgroup id="reference"}   
+    [Cognos Analytics 11.1 documentation on Knowledge Center](https://www.ibm.com/support/knowledgecenter/en/SSEP7J_11.1.0)
+    [Samples in Accelerator Catalog](https://community.ibm.com/accelerators/?context=analytics&product=Cognos%20Analytics)            
+    [REST API reference](https://www.ibm.com/support/knowledgecenter/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ca_api.doc/swagger_ca.json){: new_window}
+{: .navgroup-end}
+
+{: .navgroup id="help"}
+    [Getting started with IBM Cloud](https://www.ibm.com/cloud/get-started)
+{: .navgroup-end}
