@@ -2,7 +2,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="cognos-analytics" category="analytics" audience="service" href="/docs/cognos-analytics?topic=getting-started" console-page="/catalog/services/cognos-analytics" product-page="https://ibm.com/cloud/cognos-analytics" path="cognos-analytics"}
+{: .toc subcollection="cognos-analytics" category="analytics" audience="service" href="/docs/cognos-analytics?topic=getting-started" console-page="/catalog/services/cognos-analytics" product-page="https://ibm.com/products/cognos-analytics" path="cognos-analytics"}
 Cognos Analytics
 
 {: .navgroup id="learn"}
