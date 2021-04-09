@@ -37,7 +37,7 @@ To see an example of a {{site.data.keyword.cognosanalytics_short}} dashboard, go
 <!---Be aware of [experimental limitations](/docs/codeengine?topic=codeengine-kn-limits#kn-limits_experimental). 
 --->
 
-Watch this video to see an introduction to the {{site.data.keyword.cognosanalytics_short}}.
+Watch this video to see an introduction to {{site.data.keyword.cognosanalytics_short}}.
 ![Introduction to Cognos Analytics](https://www.youtube.com/embed/krh-VahdOmc?rel=0){: video output="iframe" data-script="none" id="youtubeplayer1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen}
 
 ## Terminology
