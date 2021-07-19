@@ -6,6 +6,7 @@
 Cognos Analytics
 
 {: .navgroup id="learn"}
+    about.md
     getting-started.md
 {: .navgroup-end}
 
